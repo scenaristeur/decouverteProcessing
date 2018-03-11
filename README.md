@@ -1,6 +1,11 @@
-# Decouverte de la programmation avec Processing et P5js (dérivé de Processing pour le Web)
+# Decouverte de la programmation avec Processing et P5js
 
-Ci dessous, l'exemple du code du programme 'p5js_01_ligne_horizontale'
+(p5js est un dérivé de [Processing](https://processing.org/) pour le Web)
+
+## Vous pouvez tester directement en ligne avec l'éditeur [p5js online ](https://alpha.editor.p5js.org/)
+ou télécharger le programme [p5js](https://p5js.org/download/)
+
+## Ci dessous, l'exemple du code du programme 'p5js_01_ligne_horizontale'
 
 ```
 // Dans le code, on peut mettre des lignes de commentaire en les faisant commencer par //
@@ -38,3 +43,5 @@ Ce code nous donnera quelque chose comme ça :
 ![Decouverte de la programmation p5js dans Processing](https://github.com/scenaristeur/decouverteProcessing/blob/master/p5js_01_ligne_horizontale/doc/apercu1.png?raw=true)
 
 Vous voyez, c'est facile de programmer ;-)
+
+Allez voir d'autres exemples : [Exemples P5js](https://p5js.org/examples/) 
