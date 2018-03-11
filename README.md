@@ -32,3 +32,9 @@ function draw() {
   line(-20, height/2, width-20, height/2);
 }
 ```
+
+Ce code nous donnera quelque chose comme ça : 
+
+![Decouverte de la programmation p5js dans Processing](https://github.com/scenaristeur/decouverteProcessing/blob/master/p5js_01_ligne_horizontale/doc/apercu1.png?raw=true)
+
+Vous voyez, c'est facile de programmer ;-)
