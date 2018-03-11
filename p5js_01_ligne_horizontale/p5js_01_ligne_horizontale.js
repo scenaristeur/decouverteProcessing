@@ -1,5 +1,5 @@
 // Dans le code, on peut mettre des lignes de commentaire en les faisant commencer par //
-// Ces deux lignes sont donc des commentaires et ne sont pas 'interprétées' par le programme
+// Ces quelques lignes sont donc des commentaires et ne sont pas 'interprétées' par le programme
 // Pour connaître toutes les fonctions p5js, vous pouvez vous référer à la page officielle https://p5js.org/reference/ (en anglais)
 // Une documentation en français est également disponible ici http://www.lyceelecorbusier.eu/p5js/?cat=2
 
